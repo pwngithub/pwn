@@ -4,7 +4,7 @@ import importlib
 APPS = {
     "Survey": "apps.survey",
     "Prep": "apps.prep",
-    "Tally": "apps.tally",
+    "Dashboard": "apps.dashboard",
 }
 
 st.sidebar.title("🧭 App Dashboard")
