@@ -4,10 +4,10 @@ st.set_page_config(page_title="App Launcher", layout="centered")
 
 st.title("📊 PWN Dashboard")
 
-# App selection map with corrected URLs
+# App selection map with fully corrected URLs
 app_urls = {
     "Survey": "https://pwnsurvey.streamlit.app",
-    "Tally": "https://tally.streamlit.app",
+    "Tally": "https://pwntally.streamlit.app",
     "Prep": "https://pwnprep.streamlit.app"
 }
 
